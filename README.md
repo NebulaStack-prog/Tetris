@@ -3,14 +3,14 @@
 Classic Tetris in NS style. 
 
 ## 💻 Run:
-- Download [Calculator_v.1.exe](Calculator_v.1.exe)
+- Download [Tetris.exe](Tetris.exe)
   
-- Or run [Calculator_v.1.py](Calculator_v.1.py)
+- Or run [Tetris.py](Tetris.py)
 
 ## 📄 Full documentation:
-- 🇷🇺  Russian version [Document](README_RU.md)
+- 🇷🇺  Russian version [Document](Tetris_RU.md)
   
-- 🇺🇲  English version: [Document](README_EN.md)
+- 🇺🇲  English version: [Document](Tetris_EN.md)
 
 ## 📷 Screenshots:
 ![](screenshot1.png)
