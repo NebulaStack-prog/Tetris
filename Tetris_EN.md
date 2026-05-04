@@ -110,7 +110,7 @@ The project represents a fully functional version of the game with a rich user i
 
 • **Graphics Library:** Pygame
 
-• **Standard Libraries:** random (for shape generation), copy (for copying shape objects), file handling (saving records).
+• **Standard Libraries:** random (for shape generation), copy (for copying shape objects), json file handling (saving records).
 
 ### 3. Project Architecture.
 
