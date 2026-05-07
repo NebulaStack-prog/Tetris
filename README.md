@@ -14,6 +14,7 @@ Classic Tetris in NS style.
 
 ## 📷 Screenshots:
 ![](Tetris_1.jpg) 
-![](Tetris_2.jpg) ![](Tetris_3.jpg)
+![](Tetris_2.jpg) 
+![](Tetris_3.jpg)
 
 © NebulaStack
