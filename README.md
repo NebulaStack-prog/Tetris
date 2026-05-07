@@ -13,8 +13,6 @@ Classic Tetris in NS style.
 - 🇺🇲  English version: [Document](Tetris_EN.md)
 
 ## 📷 Screenshots:
-![](Tetris_1.jpg)
-![](Tetris_2.jpg)
-![](Tetris_3.jpg)
+![](Tetris_1.jpg) ![](Tetris_2.jpg) ![](Tetris_3.jpg)
 
 © NebulaStack
