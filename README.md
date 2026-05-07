@@ -7,6 +7,11 @@ Classic Tetris in NS style.
   
 - Or run [Tetris.py](Tetris.py)
 
+## 💾 Code comments:
+- 🇷🇺 Russian version: [Comments](Tetris_com_RU.py)
+  
+- 🇺🇲 English version: [Comments](Tetris_com_EN.py)
+
 ## 📄 Full documentation:
 - 🇷🇺  Russian version [Document](Tetris_RU.md)
   
