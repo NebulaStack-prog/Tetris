@@ -8,9 +8,9 @@ Classic Tetris in NS style.
 - Or download exe: [Tetris.exe](Tetris.exe)
 
 ## 📄 Full Documentation
-- 🇷🇺  Russian version [Document](Tetris_RU.md)
+- 🇷🇺  Russian version [Documentation](Tetris_RU.md)
   
-- 🇺🇲  English version: [Document](Tetris_EN.md)
+- 🇺🇲  English version: [Documentation](Tetris_EN.md)
 
 ## 📷 Screenshots
 ![](Tetris_1.jpg) 
