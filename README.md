@@ -2,22 +2,17 @@
 
 Classic Tetris in NS style. 
 
-## 💻 Run:
-- Download [Tetris.exe](Tetris.exe)
-  
-- Or run [Tetris.py](Tetris.py)
+## 💻 Project Run
+- Oprn with Python: [Tetris.py](Tetris.py)
 
-## 💾 Code comments:
-- 🇷🇺 Russian version: [Comments](Tetris_com_RU.py)
-  
-- 🇺🇲 English version: [Comments](Tetris_com_EN.py)
+- Or download exe: [Tetris.exe](Tetris.exe)
 
-## 📄 Full documentation:
+## 📄 Full Documentation
 - 🇷🇺  Russian version [Document](Tetris_RU.md)
   
 - 🇺🇲  English version: [Document](Tetris_EN.md)
 
-## 📷 Screenshots:
+## 📷 Screenshots
 ![](Tetris_1.jpg) 
 ![](Tetris_2.jpg) 
 ![](Tetris_3.jpg)
