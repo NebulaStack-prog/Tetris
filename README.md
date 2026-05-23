@@ -5,7 +5,7 @@ Classic Tetris in NS style.
 ## 💻 Project Run
 - Oprn with Python: [Tetris.py](Tetris.py)
 
-- Or download exe: [Tetris.exe](Tetris.exe)
+- Or download exe: [Tetris.exe](https://github.com/NebulaStack-prog/Tetris/releases/tag/v1.0)
 
 ## 📄 Full Documentation
 - 🇷🇺  Russian version [Documentation](Tetris_RU.md)
