@@ -24,7 +24,7 @@ clock = pygame.time.Clock()
 
 state = "menu"  
 
-next_det_choice = None  # Здесь будет храниться следующая фигура
+next_det_choice = None  
 
 play_button = pygame.Rect(screen_x // 2 - 50, screen_y // 2 - 40, 100, 40)
 help_button = pygame.Rect(screen_x // 2 - 50, screen_y // 2 + 10, 100, 40)
