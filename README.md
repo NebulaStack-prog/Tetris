@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NebulaStack-prog/Tetris/raw/main/IMG_20260701_020308_545.jpg" width="200" height="230">
 
-Classic Tetris in NS style. 
+> Classic Tetris in NS style. 
 
 ## 💻 Project Run
 - Oprn with Python: [Tetris.py](Tetris.py)
