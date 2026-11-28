@@ -39,13 +39,13 @@ A classic falling-block puzzle game with an updated Python implementation, line 
 
 ## 📦 Installation
 
-- Download EXE from Releases: [more...](https://github.com/NebulaStack-prog/Tetris/releases/tag/v2.0)
+- Download the Windows executable from Releases: [more...](https://github.com/NebulaStack-prog/Tetris/releases/tag/v2.0)
 
-- Or run with Python: [more...](Tetris-New.py)
+- Or run with Python latest version of code: [more...](Tetris-New.py)
 
 - Original source code (Old): [more...](Tetris.py)
 
-## 📄 Documentation
+## 📄 Documentation (For old code)
 
 - Russian documentation: [more...](Tetris_RU.md)
 
